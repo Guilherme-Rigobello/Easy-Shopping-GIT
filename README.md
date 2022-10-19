@@ -1,0 +1,2 @@
+- # Easy Shopping Project 
+- <h3>This was the responsive project created on DevClub<h3>
